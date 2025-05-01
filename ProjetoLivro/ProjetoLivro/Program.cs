@@ -1,0 +1,11 @@
+using ProjetoLivro.Context;
+
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<LivrosContext>();
+
+var app = builder.Build();
+
+app.MapGet("/", () => "Hello World!");
+
+app.Run();

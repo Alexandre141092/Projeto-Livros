@@ -1,0 +1,5 @@
+C:\Users\fic\source\repos\Projeto livro\ProjetoLivro\ProjetoLivro\obj\Debug\net9.0\ProjetoLivro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\source\repos\Projeto livro\ProjetoLivro\ProjetoLivro\obj\Debug\net9.0\ProjetoLivro.AssemblyInfoInputs.cache
+C:\Users\fic\source\repos\Projeto livro\ProjetoLivro\ProjetoLivro\obj\Debug\net9.0\ProjetoLivro.AssemblyInfo.cs
+C:\Users\fic\source\repos\Projeto livro\ProjetoLivro\ProjetoLivro\obj\Debug\net9.0\ProjetoLivro.csproj.CoreCompileInputs.cache
+C:\Users\fic\source\repos\Projeto livro\ProjetoLivro\ProjetoLivro\obj\Debug\net9.0\ProjetoLivro.MvcApplicationPartsAssemblyInfo.cache
