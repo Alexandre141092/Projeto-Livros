@@ -8,8 +8,8 @@
         public int? Descricao { get; set; }
         public DateTime DataPublicacao { get; set; }
         public int CategoriaId { get; set; }
-        public Categoria? Categorias { get; set; }
-        public List<Livro> livros { get; set; } = new();
+        public Categoria? Categoria { get; set; }
+        
 
     }
 }

@@ -6,5 +6,6 @@
 
         public int NomeCategoria { get; set; }
 
+        public List<Livro> Livros { get; set; } = new();
     }
 }
