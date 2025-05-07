@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ProjetoLivro.Models;
+using ProjetoLivro.Repository;
 
 namespace ProjetoLivro.Context
 {
@@ -170,5 +171,7 @@ namespace ProjetoLivro.Context
 
             );
         }
+
+       
     }
 }

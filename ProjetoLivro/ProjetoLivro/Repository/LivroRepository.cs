@@ -1,6 +1,11 @@
-﻿namespace ProjetoLivro.Repository
+﻿using ProjetoLivro.Interfaces;
+using ProjetoLivro.Models;
+
+namespace ProjetoLivro.Repository
 {
-    public class LivroRepository
+    public class LivroRepository 
     {
+
+        
     }
 }

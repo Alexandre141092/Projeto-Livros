@@ -1,4 +1,5 @@
-﻿namespace ProjetoLivro.Interface
+﻿
+namespace ProjetoLivro.Interface
 {
     public interface ITipoUsuarioRepository
     {
